@@ -1,0 +1,17 @@
+h2 {
+    font-size: sans-serif;
+    color: rgb(193, 33, 33);
+    border-top: 1px solid rgb(92, 92, 92);
+  }
+  .contact{
+    color: rgb(138, 50, 50);
+  }
+  .graduated{
+    color: rgb(82, 168, 59);
+  }
+  .skill{
+    color: rgb(20, 0, 246);
+  }
+  .experience{
+    color: rgb(211, 159, 181);
+  }
